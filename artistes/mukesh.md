@@ -1,4 +1,4 @@
-Cover Art | Title | Movie | Artist
+Cover Art | Title | Movie | Artiste
 ------------ | ------------- | ----------- | ------
 [![Aah](https://i.ytimg.com/vi/sver9O8K3t8/default.jpg)](https://youtu.be/sver9O8K3t8)|[ Aa Ja Re Ab Mera Dil Pukare](https://youtu.be/sver9O8K3t8)|Aah|Mukesh
 [![Madhumati](https://i.ytimg.com/vi/o184v83-gkk/default.jpg)](https://youtu.be/o184v83-gkk)|[ Dil Tadap Tadap Ke Kah Raha](https://youtu.be/o184v83-gkk)|Madhumati|Mukesh

@@ -1,4 +1,4 @@
-Cover Art | Title | Movie | Artist
+Cover Art | Title | Movie | Artiste
 ------------ | ------------- | ----------- | ------
 [![Goonj Uthi Shehnai](https://i.ytimg.com/vi/j-tKIpILm-0/default.jpg)](https://youtu.be/j-tKIpILm-0)|[ Ankhiyan Bhul Gayi Hai Sona](https://youtu.be/j-tKIpILm-0)|Goonj Uthi Shehnai|Geeta Dutt
 [![Jaal](https://i.ytimg.com/vi/TKmIrlo2r8E/default.jpg)](https://youtu.be/TKmIrlo2r8E)|[ De Bhi Chuke Hum Dil Nazrana](https://youtu.be/TKmIrlo2r8E)|Jaal|Geeta Dutt

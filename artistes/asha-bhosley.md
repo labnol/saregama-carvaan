@@ -1,4 +1,4 @@
-Cover Art | Title | Movie | Artist
+Cover Art | Title | Movie | Artiste
 ------------ | ------------- | ----------- | ------
 [![Professor](https://i.ytimg.com/vi/ZY6TlCCiJKo/default.jpg)](https://youtu.be/ZY6TlCCiJKo)|[ Humrae Gaon Koi Aayega](https://youtu.be/ZY6TlCCiJKo)|Professor|Asha Bhosle
 [![Dus Lakh](https://i.ytimg.com/vi/iiDUlTn1R30/default.jpg)](https://youtu.be/iiDUlTn1R30)|[ Agre Ka Lala Angreji Dulhan Laya Re](https://youtu.be/iiDUlTn1R30)|Dus Lakh|Asha Bhosle

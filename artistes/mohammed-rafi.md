@@ -1,4 +1,4 @@
-Cover Art | Title | Movie | Artist
+Cover Art | Title | Movie | Artiste
 ------------ | ------------- | ----------- | ------
 [![Deedar](https://i.ytimg.com/vi/285VsJ4L7nE/default.jpg)](https://youtu.be/285VsJ4L7nE)|[ Dekh Liya Maine Kismat Ka Tamasha](https://youtu.be/285VsJ4L7nE)|Deedar|Mohammed Rafi
 [![Janam Janam Ke Phere](https://i.ytimg.com/vi/vtX8KCqGp7Q/default.jpg)](https://youtu.be/vtX8KCqGp7Q)|[ Zara Samne To Aa O Chhaliye](https://youtu.be/vtX8KCqGp7Q)|Janam Janam Ke Phere|Mohammed Rafi

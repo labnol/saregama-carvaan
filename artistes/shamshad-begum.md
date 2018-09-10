@@ -1,4 +1,4 @@
-Cover Art | Title | Movie | Artist
+Cover Art | Title | Movie | Artiste
 ------------ | ------------- | ----------- | ------
 [![C.I.D.](https://i.ytimg.com/vi/6jSE-ZiIkfc/default.jpg)](https://youtu.be/6jSE-ZiIkfc)|[ Leke Pehla Pehla Pyar](https://youtu.be/6jSE-ZiIkfc)|C.I.D.|Shamshad Begum
 [![Mother India](https://i.ytimg.com/vi/WvaqrhWuKss/default.jpg)](https://youtu.be/WvaqrhWuKss)|[ Dukh Bhare Din Beete Re Bhaiya](https://youtu.be/WvaqrhWuKss)|Mother India|Shamshad Begum

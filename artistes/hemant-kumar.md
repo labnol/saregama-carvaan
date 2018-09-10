@@ -1,4 +1,4 @@
-Cover Art | Title | Movie | Artist
+Cover Art | Title | Movie | Artiste
 ------------ | ------------- | ----------- | ------
 [![Jaal](https://i.ytimg.com/vi/dBw_JSiNF9c/default.jpg)](https://youtu.be/dBw_JSiNF9c)|[ Yeh Raat Yeh Chandni](https://youtu.be/dBw_JSiNF9c)|Jaal|Hemant Kumar
 [![Anarkali](https://i.ytimg.com/vi/VzXrJ3DzMsE/default.jpg)](https://youtu.be/VzXrJ3DzMsE)|[ Jaag Dard E Ishq Jaag](https://youtu.be/VzXrJ3DzMsE)|Anarkali|Hemant Kumar

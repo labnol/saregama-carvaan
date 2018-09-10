@@ -1,4 +1,4 @@
-Cover Art | Title | Movie | Artist
+Cover Art | Title | Movie | Artiste
 ------------ | ------------- | ----------- | ------
 [![Badi Bahen](https://i.ytimg.com/vi/-btaTuMDqbE/default.jpg)](https://youtu.be/-btaTuMDqbE)|[ Chupchup Khade Ho Zaroor Koi Baat Hai](https://youtu.be/-btaTuMDqbE)|Badi Bahen|Lata Mangeshkar
 [![Deedar](https://i.ytimg.com/vi/285VsJ4L7nE/default.jpg)](https://youtu.be/285VsJ4L7nE)|[ Dekh Liya Maine Kismat Ka Tamasha](https://youtu.be/285VsJ4L7nE)|Deedar|Mohammed Rafi

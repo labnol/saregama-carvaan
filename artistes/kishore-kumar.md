@@ -1,4 +1,4 @@
-Cover Art | Title | Movie | Artist
+Cover Art | Title | Movie | Artiste
 ------------ | ------------- | ----------- | ------
 [![Door Gagan Ki Chhaon Mein](https://i.ytimg.com/vi/gOW3P6-RoEw/default.jpg)](https://youtu.be/gOW3P6-RoEw)|[ Koi Lauta De Mere Beete Huye Din](https://youtu.be/gOW3P6-RoEw)|Door Gagan Ki Chhaon Mein|Kishore Kumar
 [![Mr. X In Bombay](https://i.ytimg.com/vi/ufTmwwThLLY/default.jpg)](https://youtu.be/ufTmwwThLLY)|[ Khoobsurat Hasina Jane Ja](https://youtu.be/ufTmwwThLLY)|Mr. X In Bombay|Kishore Kumar

@@ -1,4 +1,4 @@
-Cover Art | Title | Movie | Artist
+Cover Art | Title | Movie | Artiste
 ------------ | ------------- | ----------- | ------
 [![Sharaabi](https://i.ytimg.com/vi/7WOY6gFUk5s/default.jpg)](https://youtu.be/7WOY6gFUk5s)|[ Jahan Mil Jayen Chaar Yaar](https://youtu.be/7WOY6gFUk5s)|Sharaabi|Amitabh Bachchan
 [![Laawaris](https://i.ytimg.com/vi/rQyoubJ4q8I/default.jpg)](https://youtu.be/rQyoubJ4q8I)|[ Mere Angne Mein](https://youtu.be/rQyoubJ4q8I)|Laawaris|Amitabh Bachchan

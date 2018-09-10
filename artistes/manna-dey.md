@@ -1,4 +1,4 @@
-Cover Art | Title | Movie | Artist
+Cover Art | Title | Movie | Artiste
 ------------ | ------------- | ----------- | ------
 [![Shree 420](https://i.ytimg.com/vi/oXLzfldeDcM/default.jpg)](https://youtu.be/oXLzfldeDcM)|[ Pyar Hua Iqrar Hua](https://youtu.be/oXLzfldeDcM)|Shree 420|Manna Dey
 [![Chori Chori](https://i.ytimg.com/vi/3Ge_VoC1Cf8/default.jpg)](https://youtu.be/3Ge_VoC1Cf8)|[ Yeh Raat Bheegi Bheegi](https://youtu.be/3Ge_VoC1Cf8)|Chori Chori|Manna Dey
