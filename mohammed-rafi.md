@@ -1,7 +1,6 @@
 Cover Art | Title | Movie | Artist
 ------------ | ------------- | ----------- | ------
 [![Deedar](https://i.ytimg.com/vi/285VsJ4L7nE/default.jpg)](https://youtu.be/285VsJ4L7nE)|[ Dekh Liya Maine Kismat Ka Tamasha](https://youtu.be/285VsJ4L7nE)|Deedar|Mohammed Rafi
-[![Jaal](https://i.ytimg.com/vi/dBw_JSiNF9c/default.jpg)](https://youtu.be/dBw_JSiNF9c)|[ Yeh Raat Yeh Chandni](https://youtu.be/dBw_JSiNF9c)|Jaal|Hemant Kumar
 [![Janam Janam Ke Phere](https://i.ytimg.com/vi/vtX8KCqGp7Q/default.jpg)](https://youtu.be/vtX8KCqGp7Q)|[ Zara Samne To Aa O Chhaliye](https://youtu.be/vtX8KCqGp7Q)|Janam Janam Ke Phere|Mohammed Rafi
 [![Kali Topi Lal Rumal](https://i.ytimg.com/vi/k5wuLq3O0z8/default.jpg)](https://youtu.be/k5wuLq3O0z8)|[ Laagi Chhoote Na Ab To Sanam](https://youtu.be/k5wuLq3O0z8)|Kali Topi Lal Rumal|Mohammed Rafi
 [![Kohinoor](https://i.ytimg.com/vi/St8OZU-C0Sw/default.jpg)](https://youtu.be/St8OZU-C0Sw)|[ Tan Rang Lo Ji Aaj Mann Ranglo](https://youtu.be/St8OZU-C0Sw)|Kohinoor|Mohammed Rafi
