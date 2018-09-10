@@ -1,5 +1,5 @@
-"Cover Art | Title | Movie | Artist
------------- | ------------- | ----------- | ------"
+Cover Art | Title | Movie | Artist
+------------ | ------------- | ----------- | ------
 [![Badi Bahen](https://i.ytimg.com/vi/-btaTuMDqbE/default.jpg)](https://youtu.be/-btaTuMDqbE)|[ Chupchup Khade Ho Zaroor Koi Baat Hai](https://youtu.be/-btaTuMDqbE)|Badi Bahen|Lata Mangeshkar
 [![Barsaat](https://i.ytimg.com/vi/pOd_l7LgCKk/default.jpg)](https://youtu.be/pOd_l7LgCKk)|[ Chhod Gaye Balam Mujhe](https://youtu.be/pOd_l7LgCKk)|Barsaat|Lata Mangeshkar
 [![Barsaat](https://i.ytimg.com/vi/Fm87fGL4reE/default.jpg)](https://youtu.be/Fm87fGL4reE)|[ Hawa Mein Udta Jaye](https://youtu.be/Fm87fGL4reE)|Barsaat|Lata Mangeshkar
