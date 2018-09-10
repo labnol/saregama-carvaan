@@ -1,6 +1,5 @@
 Cover Art | Title | Movie | Artist
 ------------ | ------------- | ----------- | ------
-[![Badi Bahen](https://i.ytimg.com/vi/-btaTuMDqbE/default.jpg)](https://youtu.be/-btaTuMDqbE)|[ Chupchup Khade Ho Zaroor Koi Baat Hai](https://youtu.be/-btaTuMDqbE)|Badi Bahen|Lata Mangeshkar
 [![Door Gagan Ki Chhaon Mein](https://i.ytimg.com/vi/gOW3P6-RoEw/default.jpg)](https://youtu.be/gOW3P6-RoEw)|[ Koi Lauta De Mere Beete Huye Din](https://youtu.be/gOW3P6-RoEw)|Door Gagan Ki Chhaon Mein|Kishore Kumar
 [![Mr. X In Bombay](https://i.ytimg.com/vi/ufTmwwThLLY/default.jpg)](https://youtu.be/ufTmwwThLLY)|[ Khoobsurat Hasina Jane Ja](https://youtu.be/ufTmwwThLLY)|Mr. X In Bombay|Kishore Kumar
 [![Haathi Mere Saathi](https://i.ytimg.com/vi/5Dgz6e57pjU/default.jpg)](https://youtu.be/5Dgz6e57pjU)|[ Sunja Aa Thandi Hawa](https://youtu.be/5Dgz6e57pjU)|Haathi Mere Saathi|Kishore Kumar
